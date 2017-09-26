@@ -1,0 +1,121 @@
+{
+    "data": [
+                 {
+                 "ID": 1000,
+                 "section": "第一组",
+                 "row_array":[
+                                       {
+                                       "row_ID" : 125,
+                                       "row_name" : "莫1",
+                                       },
+                                       {
+                                       "row_ID" : 126,
+                                       "row_name" : "莫2",
+                                       }
+                                    ]
+                 },
+                 {
+                 "ID": 1001,
+                 "section": "第二组",
+                 "row_array":[
+                                       {
+                                       "row_ID" : 127,
+                                       "row_name" : "业1",
+                                       },
+                                       {
+                                       "row_ID" : 128,
+                                       "row_name" : "业2",
+                                       }
+                                    ]
+                 },
+                 {
+                 "ID": 1002,
+                 "section": "第三组",
+                 "row_array":[
+                                       {
+                                       "row_ID" : 129,
+                                       "row_name" : "金1",
+                                       },
+                                       {
+                                       "row_ID" : 130,
+                                       "row_name" : "金2",
+                                       }
+                                    ]
+                 },
+                 {
+                 "ID": 1003,
+                 "section": "第四组",
+                 "row_array":[
+                                       {
+                                       "row_ID" : 131,
+                                       "row_name" : "mo1",
+                                       },
+                                       {
+                                       "row_ID" : 132,
+                                       "row_name" : "mo2",
+                                       }
+                                    ]
+
+                 },
+                 {
+                 "ID": 1004,
+                 "section": "第五组",
+                 "row_array":[
+                                       {
+                                       "row_ID" : 133,
+                                       "row_name" : "ye1",
+                                       },
+                                       {
+                                       "row_ID" : 134,
+                                       "row_name" : "ye2",
+                                       }
+                                    ]
+             
+            },
+             {
+             "ID": 1005,
+             "section": "第六组",
+             "row_array":[
+                                   {
+                                   "row_ID" : 135,
+                                   "row_name" : "jin1",
+                                   },
+                                   {
+                                   "row_ID" : 136,
+                                   "row_name" : "jin2",
+                                   }
+                                   ]
+             
+             },
+             {
+             "ID": 1006,
+             "section": "第七组",
+             "row_array":[
+                                   {
+                                   "row_ID" : 137,
+                                   "row_name" : "moyejin1",
+                                   },
+                                   {
+                                   "row_ID" : 138,
+                                   "row_name" : "moyejin2",
+                                   }
+                                   ]
+             
+             },
+             {
+             "ID": 1007,
+             "section": "第八组",
+             "row_array":[
+                                   {
+                                   "row_ID" : 139,
+                                   "row_name" : "moye1",
+                                   },
+                                   {
+                                   "row_ID" : 140,
+                                   "row_name" : "moye2",
+                                   }
+                                   ]
+             
+             }
+    ]
+}
